@@ -11,6 +11,7 @@ const Hero = () => {
         <button 
             type='submit'
             onClick={() => window.open('')} 
+            className='black_btn'
         >GitHub</button>
 
         <h1 className='head_text'>Summarize Articles with
