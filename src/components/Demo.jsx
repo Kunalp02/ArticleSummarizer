@@ -91,7 +91,7 @@ const Demo = () => {
           <img 
             src={loader}
             alt='loader'
-            className='w-20 h-20 object-contain'
+            className='w-20 h-20 object-contain mx-auto'
           />
          ): error ? (
           <p
